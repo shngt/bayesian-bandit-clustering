@@ -14,3 +14,7 @@ The data files may be downloaded as follows: "norm_matrix_ejml_full_delicious.cs
 ### Other references
 
 1. "Efficient Thompson Sampling for Online Matrix-Factorization Recommendation" by Kawale et al. - the particle sampling-based Thompson sampling algorithm underlying (3) and (4).
+
+### Contributors
+
+Shashank Gupta, Suryateja B.V.
